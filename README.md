@@ -1,7 +1,9 @@
 # IoT Operational Efficiency Engine
 
 ## 🚀 Overview
-This project is a technical solution designed to identify operational waste in real-time. By analyzing data from IoT-connected assets, this logic engine flags **"Idle Waste"**—assets that are powered on but not performing productive work.
+This project is a technical solution designed to identify operational waste in real-time. By analyzing data from IoT-connected assets, this logic engine flags "Idle Waste"—assets that are powered on but not performing productive work.
+
+### 🎥 [Watch the 60-Second Technical Demo](https://www.loom.com/share/f9a1856a75ad442698ab8ca17c346953)
 
 ## 💼 Business Value (ROI)
 * **Cost Reduction:** Instantly identifies fuel and electricity wastage.
