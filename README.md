@@ -12,3 +12,5 @@ This project is a technical solution designed to identify operational waste in r
 * **Language:** Python 3.x
 * **Logic:** Conditional filtering of real-time sensor streams.
 * **Scalability:** Designed to be integrated with Webhooks (Flask) or cloud-based APIs.
+
+* Note on Industry Versatility: While this prototype uses IoT telemetry as the data source, the core logic is industry-agnostic and can be easily reconfigured for Fintech fraud detection, CRM lead scoring, or Cyber Security threat monitoring.
